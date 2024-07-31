@@ -1,0 +1,10 @@
+.button{
+    width:12vw;
+    height: fit-content;
+    padding:4px;
+    color: #fff;
+    min-width: fit-content;
+    border: 2px solid transparent;
+    background: #1c1c54;
+    border-radius: 3px;
+}

@@ -1,0 +1,13 @@
+.landing{
+    padding: 2vh 12vw;
+    background: url('../assets/homeBg.png') no-repeat;
+    background-size:100vh;
+    background-position-x: 50vw;
+    background-position-y: 0;
+    /* width: 100%; */
+}
+.section-Container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

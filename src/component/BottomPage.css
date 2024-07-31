@@ -1,0 +1,41 @@
+.bottomPage{
+    text-align: center;
+    width: 100%;
+    background: rgb(234, 252, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.curveDesigner{
+    background: white;
+    height:7vw;
+    width: 100%;
+    border-radius: 0px 0px 100% 100%;
+}
+
+.bottomPage>h2{
+    font-size:2.3em;
+    margin:0px;
+    margin-top:50px;
+    font-weight: bold;
+    font-family:  Helvetica, sans-serif;
+    color:#0e0e2a;
+}
+.bottomPage>h1{
+    font-size:3em;
+    font-weight: bold;
+    font-family:  Helvetica, sans-serif;
+    color:#010157b4;
+    margin-top: 80px;
+
+    line-height: 0px;
+}
+.bottomPage>p{
+    font-size:1.1em;
+    width: 50%;
+    
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    color:#0000a1b4;
+    font-family: Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+}
